@@ -184,10 +184,7 @@ Build Immersive Worlds
 ▓▓▓▓▓▓▓▓▓▓   GANG TERRITORY (GitHub Stats)   ▓▓▓▓▓▓▓▓▓▓
          "We takin' over block by block."
 ```
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlyoneojiambo&show_icons=true&theme=gruvbox&hide_border=true&border_radius=6&title_color=FF6B00&icon_color=FFD700&text_color=FFD700&bg_color=1a0a00"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyoneojiambo&layout=compact&theme=gruvbox&hide_border=true&border_radius=6&title_color=FF6B00&text_color=FFD700&bg_color=1a0a00"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=300&height=150&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++%F0%9F%8E%AE++GAME+MODE%3A+DEV+++++%E2%94%82;%E2%94%82++HP++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25++%E2%94%82;%E2%94%82++ARM+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25++%E2%94%82;%E2%94%82++%24%24++%E2%88%9E++CODING+GRIND++++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" />
 
 <br/><br/>
 
