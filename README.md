@@ -59,21 +59,24 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<!-- CJ GTA San Andreas GIF — Tenor post 16103935 -->
-<img src="https://tenor.com/view/gta-san-andreas-gta-gta-trilogy-gta-trilogy-relaxante-cj-gif-23802259" width="220" style="border: 3px solid #FF6B00; border-radius: 4px; image-rendering: pixelated;"/>
+<!-- CJ GTA San Andreas GIF - Direct Link applied -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#FF6B00" style="padding: 3px; border-radius: 4px;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp6c20xOGF2OGZzMG4xaG9iNXkyMDV1bXU1M3dnbHFsaHZrOWN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ILjOfJ1oL7NAc9SQ7/giphy.gif" 
+           width="220" 
+           alt="CJ Relaxing" 
+           style="display: block;"/>
+    </td>
+  </tr>
+</table>
+
 <br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=8&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=240&height=30&lines=CJ+IS+IN+THE+BUILDING;GROVE+ST.+REPRESENT"/>
 
 <br/>
-
-```
-┌─────────────────────────┐
-│  🎮  GAME MODE: DEV     │
-│  HP  ████████████ 100%  │
-│  ARM ████████████ 100%  │
-│  $$  ∞  CODING GRIND    │
-└─────────────────────────┘
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=300&height=150&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++%F0%9F%8E%AE++GAME+MODE%3A+DEV+++++%E2%94%82;%E2%94%82++HP++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25++%E2%94%82;%E2%94%82++ARM+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25++%E2%94%82;%E2%94%82++%24%24++%E2%88%9E++CODING+GRIND++++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" />
 
 </td>
 </tr>
